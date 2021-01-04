@@ -16,4 +16,3 @@ pip3 install requests[socks]
 pip3 install stem
 cd $HOME
 cd $HOME/Facebook-Bot
-python2 bot-Fb.py
