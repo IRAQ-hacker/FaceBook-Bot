@@ -22,6 +22,24 @@ Find out the rest on your own
 <img width="45%" src= "https://user-images.githubusercontent.com/70316694/103587718-ea053d80-4ef8-11eb-9fee-c7cb0cfd0b93.jpg"/>
 
     
+# use :
+
+`chmod +x setup.sh`
+
+`bash setup.sh`
+
+# run :
+
+`python2 fb-Bot`
+
+# about version :
+
+- This version is speed. 
+
+- No ban account.
+
+- safe 100%
+
 
 # follow me in :
 
