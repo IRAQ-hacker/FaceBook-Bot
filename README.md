@@ -19,9 +19,9 @@ Find out the rest on your own
 
 <p align="center">
 
-<img width="60%" src= "https://user-images.githubusercontent.com/70316694/103587718-ea053d80-4ef8-11eb-9fee-c7cb0cfd0b93.jpg"/>
+<img width="45%" src= "https://user-images.githubusercontent.com/70316694/103587718-ea053d80-4ef8-11eb-9fee-c7cb0cfd0b93.jpg"/>
 
-    p/>
+    
 
 # follow me in :
 
