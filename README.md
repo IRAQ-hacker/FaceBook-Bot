@@ -17,9 +17,7 @@ Find out the rest on your own
 
 <br>
 
-<p align="center">
-
-<img width="60%" src= "https://user-images.githubusercontent.com/70316694/103587749-f8ebf000-4ef8-11eb-8da0-9644a09b6d7b.jpg"/>
+<p align="center">/<img width="45%" src= "https://user-images.githubusercontent.com/70316694/103587749-f8ebf000-4ef8-11eb-8da0-9644a09b6d7b.jpg"/>
 
     <p/>
 
